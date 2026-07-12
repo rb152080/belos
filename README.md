@@ -1,4 +1,4 @@
-# orthobelos
+# belos
 
 ## Resources
 
