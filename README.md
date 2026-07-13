@@ -1,4 +1,6 @@
-# belos
+# Belos
+
+C++ linear algebra and machine learning library with python bindings (pybind11)
 
 ## Resources
 
